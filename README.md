@@ -3,7 +3,7 @@
 
 ### App Walk-though
 
-<img src="file:///Users/kickstarter/Downloads/ezgif.com-gif-maker.gif" width=200><br>
+https://imgur.com/gallery/IeW7tXX
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -17,5 +17,5 @@
 - [x] 4. User can update the label text with custom text entered into the text field.
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
+   - [x] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped.
